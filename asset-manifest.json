@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/chickenary/static/css/main.073c9b0a.css",
-    "main.js": "/chickenary/static/js/main.737fe4c3.js",
-    "static/js/787.b448ecd1.chunk.js": "/chickenary/static/js/787.b448ecd1.chunk.js",
-    "static/media/logo.svg": "/chickenary/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/chickenary/static/css/main.4152c3d3.css",
+    "main.js": "/chickenary/static/js/main.2968fa1d.js",
     "index.html": "/chickenary/index.html",
-    "main.073c9b0a.css.map": "/chickenary/static/css/main.073c9b0a.css.map",
-    "main.737fe4c3.js.map": "/chickenary/static/js/main.737fe4c3.js.map",
-    "787.b448ecd1.chunk.js.map": "/chickenary/static/js/787.b448ecd1.chunk.js.map"
+    "main.4152c3d3.css.map": "/chickenary/static/css/main.4152c3d3.css.map",
+    "main.2968fa1d.js.map": "/chickenary/static/js/main.2968fa1d.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.737fe4c3.js"
+    "static/css/main.4152c3d3.css",
+    "static/js/main.2968fa1d.js"
   ]
 }
