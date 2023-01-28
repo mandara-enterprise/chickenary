@@ -30,8 +30,8 @@ import { categoryDetailsLoader } from "loaders/categoryDetailsLoader";
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path="/" element={<RootLayout />}>
-      <Route index element={<Navigate to="/cc" />} />
-      <Route path="/cc" element={<Home />} />
+      <Route index element={<Navigate to="/chickenary" />} />
+      <Route path="/chickenary" element={<Home />} />
       <Route path="about" element={<About />} />
       <Route path="help" element={<HelpLayout />}>
         <Route path="faq" element={<FAQ />} />
