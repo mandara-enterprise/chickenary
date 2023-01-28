@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/chickenary/static/css/main.4152c3d3.css",
-    "main.js": "/chickenary/static/js/main.2968fa1d.js",
+    "main.js": "/chickenary/static/js/main.c777d4e5.js",
     "index.html": "/chickenary/index.html",
     "main.4152c3d3.css.map": "/chickenary/static/css/main.4152c3d3.css.map",
-    "main.2968fa1d.js.map": "/chickenary/static/js/main.2968fa1d.js.map"
+    "main.c777d4e5.js.map": "/chickenary/static/js/main.c777d4e5.js.map"
   },
   "entrypoints": [
     "static/css/main.4152c3d3.css",
-    "static/js/main.2968fa1d.js"
+    "static/js/main.c777d4e5.js"
   ]
 }
