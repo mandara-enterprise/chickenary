@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/chickenary/static/css/main.073c9b0a.css",
-    "main.js": "/chickenary/static/js/main.ba007898.js",
+    "main.js": "/chickenary/static/js/main.724ad272.js",
     "static/js/787.b448ecd1.chunk.js": "/chickenary/static/js/787.b448ecd1.chunk.js",
     "static/media/logo.svg": "/chickenary/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/chickenary/index.html",
     "main.073c9b0a.css.map": "/chickenary/static/css/main.073c9b0a.css.map",
-    "main.ba007898.js.map": "/chickenary/static/js/main.ba007898.js.map",
+    "main.724ad272.js.map": "/chickenary/static/js/main.724ad272.js.map",
     "787.b448ecd1.chunk.js.map": "/chickenary/static/js/787.b448ecd1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ba007898.js"
+    "static/js/main.724ad272.js"
   ]
 }
